@@ -1,2 +1,2 @@
-# JS-find-the-difference-2
+# 找一找小游戏
 精简版
